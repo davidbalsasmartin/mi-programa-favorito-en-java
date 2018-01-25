@@ -1,11 +1,11 @@
-﻿# Mi programa favorito en java
+# Mi programa favorito en java
 El transcurso por el camino de la programación es largo y tedioso pero a medida que avanzas
 se hace más satisfactorio cada día.
 Es un placer aprender java porque aunque no sea el lenguaje más fácil ni más dificil, hay que
 cuidar los pequeños fallos y es un nivel bueno para empezar.
 
 ## Hasta ahora, los ejercicos que más me han gustado son los de "pintar",
-como hay que elegir voy a optar por un ejercicio en el que se pinta un reloj de arena:
+Como hay que elegir voy a optar por un ejercicio en el que se pinta un reloj de arena:
 
 ``` java
 
