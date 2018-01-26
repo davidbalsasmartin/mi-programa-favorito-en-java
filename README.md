@@ -4,7 +4,7 @@ se hace más satisfactorio cada día.
 Es un placer aprender java porque aunque no sea el lenguaje más fácil ni más dificil, hay que
 cuidar los pequeños fallos y es un nivel bueno para empezar.
 
-## Hasta ahora, los ejercicos que más me han gustado son los de "pintar",
+## Hasta ahora, los ejercicios que más me han gustado son los de "pintar",
 Como hay que elegir voy a optar por un ejercicio en el que se pinta un reloj de arena:
 
 ``` java
